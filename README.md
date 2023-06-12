@@ -1,0 +1,2 @@
+# azurevm
+azure vm deployment
